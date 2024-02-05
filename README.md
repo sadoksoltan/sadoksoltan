@@ -1,8 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sadok</h1>
 <h3 align="center">Full-stack developer with a passion for creating innovative solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadoksoltan&label=Profile%20views&color=0e75b6&style=flat" alt="sadoksoltan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadoksoltan" alt="sadoksoltan" /></a> </p>
