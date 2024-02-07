@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadoksoltan](https://github.com/sadoksoltan)
 
-- 💬 Ask me about **Intelligence artificielle (CNN, RNN, SVM, Naive Bayes, Random Forest, Decision Tree, K-means, VGG, ResNet, InceptionNet, Support Vector Machines, Regressions linéaires et logistiques), MERN stack, Python, Django.**
+- 💬 Ask me about **Intelligence artificielle (CNN, RNN, SVM, Naive Bayes, Random Forest, Decision Tree, K-means, Support Vector Machines, Regressions linéaires et logistiques), MERN stack, Python, Django.**
 
 - 📫 How to reach me **soltansadok3@gmail.com**
 
